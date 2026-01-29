@@ -1,2 +1,45 @@
-# AudioEventConductor
-Documentation for the Audio Event Conductor
+## AudioEventConductor
+Thanks for your interest in the Audio Event Conductor!
+
+The Audio Event Conductor is an Unreal Engine Plugin built in C++. Enabling a "wwise" inspired workflow Conducting Built-in UE Audio with a familiar Tree view and Inline Editor workflow. Easily manipulate Attenuations, Sound Cues, Sound Classes and Sound Concurrency Settings. 
+
+## Installation
+
+Get the plugin from Unreal Marketplace. Enable and restart the editor. 
+
+<img width="531" height="104" alt="image" src="https://github.com/user-attachments/assets/71766307-a37c-417e-b65c-0dd0eb31caf2" />
+
+## Usage
+
+Right Click in the Content Broswer and Create an Audio Event Conductor
+
+<img width="634" height="431" alt="image" src="https://github.com/user-attachments/assets/32e89fb9-6b85-4ea2-b444-f057dd77a1b1" />
+
+## Auto Populate the Tree View
+Inside the Audio Event Conductor, right click in the left Panel and Select either Auto Populate from Selected Folder, or Selected Sound Cues
+
+This requires the context browser have the desired selection. For example: select the Content Folder to scan the entire project, or Sounds Folder, or specific Sound Cues.
+
+<img width="730" height="567" alt="image" src="https://github.com/user-attachments/assets/5175504d-c559-4f62-8620-7b727e2fe241" />
+
+## Adding To the Tree View Manually
+Alternatively, you can build the treeview from scratch via Right click Add Folders/Events, or using the keyboard shortcuts Crtl+N (New Folder), or Crtl+E(New Event)
+
+<img width="129" height="90" alt="image" src="https://github.com/user-attachments/assets/092846cc-3915-4d3a-8e54-444bec655c41" />
+
+
+## Create SoundClasses
+The SoundClass structure is deririved from the TreeView Folder Structure, once you have an initial treeview layout, Right Click - Create SoundClasses.
+The Audio Event Conductor automatically creates the Folder Structure, Sound Classes, Wires the Sound Classes, and assigns them to the Folders in the Tree View
+
+
+## Create Atteunation Profile
+Right Click on an Event and select the Create Atteunation for Selected Event
+
+This automatically creates an Attenuation Profile and Assigns it to the Event
+
+<img width="628" height="61" alt="image" src="https://github.com/user-attachments/assets/5d4c62f5-39a8-4d4a-96ab-d06604410396" />
+
+<img width="1539" height="716" alt="image" src="https://github.com/user-attachments/assets/84f9080d-8295-4a8b-976b-709871801731" />
+
+
