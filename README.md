@@ -103,6 +103,11 @@ When you add it to your project it's recommended to reset it's cooridnates if no
 The Curves update in real time as you edit.
 <img width="1124" height="455" alt="image" src="https://github.com/user-attachments/assets/64fee5db-26a8-4069-9565-6c76854c5346" />
 
+The Roll off curve will change from Green to red, if using a custom curve 
+<img width="937" height="290" alt="image" src="https://github.com/user-attachments/assets/1e1a86d9-36a4-4780-9869-8db389a9b111" />
+<img width="1150" height="458" alt="image" src="https://github.com/user-attachments/assets/637ca176-623b-462e-9d8b-6e168b840231" />
+
+
 
 
 
