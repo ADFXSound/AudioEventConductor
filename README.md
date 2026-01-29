@@ -131,6 +131,14 @@ Ensure the Apply Atteunation Profile to Sound is checked so you can properly aud
 <img width="332" height="22" alt="image" src="https://github.com/user-attachments/assets/7131de30-6215-4a07-8cec-ea2933148431" />
 
 
+## Debug Commands
+a.Debug.CrossfaderADFX - CrossfaderADFX verbose logging
+
+a.Debug.RandomizerADFX - RandomizerADFX verbose logging
+
+a.Debug.LooperADFX - LooperADFX verbose logging
+
+
 
 
 
