@@ -34,12 +34,47 @@ The Audio Event Conductor automatically creates the Folder Structure, Sound Clas
 
 
 ## Create Atteunation Profile
-Right Click on an Event and select the Create Atteunation for Selected Event
+Right Click on an Folder and select the Create Atteunation for Selected Folder
 
-This automatically creates an Attenuation Profile and Assigns it to the Event
+This automatically creates an Sound Concurrency Folder and Assigns it to the Folder
+
+NOTE: You can also manually create these in the Content Broswer
 
 <img width="628" height="61" alt="image" src="https://github.com/user-attachments/assets/5d4c62f5-39a8-4d4a-96ab-d06604410396" />
 
 <img width="1539" height="716" alt="image" src="https://github.com/user-attachments/assets/84f9080d-8295-4a8b-976b-709871801731" />
+
+## Create Sound Concurrency
+Right Click on an Folder and select the Create Sound Concurrency for Selected Folder
+
+NOTE: You can also manually create these in the Content Broswer
+
+## Create Sound Cue
+Right Click on an Event and select the Create Sound Cue(s) for Selected Event
+
+NOTE: You can also manually create these in the Content Broswer
+
+<img width="729" height="232" alt="image" src="https://github.com/user-attachments/assets/e0813dde-865c-4f77-be67-e4b6f3d1cafc" />
+
+## Inject Settings into the Sound Cue
+Right click on events(s), and select the Inject Options 
+
+To apply the Sound Classes, Atteunation, or Sound Concurrency Settings into the Sound Cue.
+
+<img width="733" height="112" alt="image" src="https://github.com/user-attachments/assets/ee3a5987-43c4-4dd8-8154-e19690c041e7" />
+
+NOTE: The Audio Event Conductor Will notify when the Atteunation state of the Sound Cue is out of date with the latest changes for the Attenuation Profile
+
+<img width="221" height="87" alt="image" src="https://github.com/user-attachments/assets/cd079270-fa70-4c13-a145-c5ef103d50b2" />
+
+## Attenuation Profile
+This is a visualized variant of the Unreal Sound Atteunation 
+
+Volume Curve the start and and end points can not be modified, the 2nd key is locked to 1.0 x axis as this is defining the Inner Radius End point
+
+
+
+
+
 
 
