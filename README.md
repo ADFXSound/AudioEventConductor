@@ -59,6 +59,8 @@ NOTE: You can also manually create these in the Content Broswer
 ## Inject Settings into the Sound Cue
 Right click on events(s), and select the Inject Options 
 
+IMPORTANT: This is a required step for the settings to be applied to the Sound Cues.
+
 To apply the Sound Classes, Atteunation, or Sound Concurrency Settings into the Sound Cue.
 
 <img width="733" height="112" alt="image" src="https://github.com/user-attachments/assets/ee3a5987-43c4-4dd8-8154-e19690c041e7" />
@@ -68,9 +70,48 @@ NOTE: The Audio Event Conductor Will notify when the Atteunation state of the So
 <img width="221" height="87" alt="image" src="https://github.com/user-attachments/assets/cd079270-fa70-4c13-a145-c5ef103d50b2" />
 
 ## Attenuation Profile
-This is a visualized variant of the Unreal Sound Atteunation 
+This is a visualized variant of the Unreal Sound Atteunation, it is recommend that you use the Debug Actor tool in a level as you learn how it works to see the curves expected behaviors.
 
 Volume Curve the start and and end points can not be modified, the 2nd key is locked to 1.0 x axis as this is defining the Inner Radius End point
+
+The Left Pane can click on individual curves to solo view, or Show All 
+
+<img width="255" height="178" alt="image" src="https://github.com/user-attachments/assets/c7522582-1ec3-4138-b33e-ccf83c4e0129" />
+
+Scale Curves with Falloff
+
+This automatically adjusts the falloff distance in relation to the Volume Inner Radius point.
+
+<img width="217" height="51" alt="image" src="https://github.com/user-attachments/assets/9b6ae5a8-936c-4f5e-84ef-ed230496f60f" />
+
+Since the falloff distance only begins at the Inner Radius End point, the total Audible Distance is included for clarity
+
+<img width="513" height="92" alt="image" src="https://github.com/user-attachments/assets/dca9e948-7584-454e-9699-5f5ec45f48ab" />
+
+## Debug Actors
+
+It's recommended to make a new level with your Debug Actor
+
+Add actors Attenuation Profile Debug Actor, or Sound Atteunation Debug Actor They provide identical results.
+
+ADFXSound workflow is to begin with the Attenuation Profile variant if you are using those.
+<img width="499" height="121" alt="image" src="https://github.com/user-attachments/assets/c7382067-d144-4560-ba8e-50c06f79aba0" />
+
+When you add it to your project it's recommended to reset it's cooridnates if not at 0,0,0
+<img width="694" height="106" alt="image" src="https://github.com/user-attachments/assets/d9ca34a2-d4f6-49c5-8cba-949babf02fc2" />
+
+The Curves update in real time as you edit.
+<img width="1124" height="455" alt="image" src="https://github.com/user-attachments/assets/64fee5db-26a8-4069-9565-6c76854c5346" />
+
+
+
+
+
+
+
+
+
+
 
 
 
