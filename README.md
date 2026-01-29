@@ -107,8 +107,20 @@ The Roll off curve will change from Green to red, if using a custom curve
 <img width="937" height="290" alt="image" src="https://github.com/user-attachments/assets/1e1a86d9-36a4-4780-9869-8db389a9b111" />
 <img width="1150" height="458" alt="image" src="https://github.com/user-attachments/assets/637ca176-623b-462e-9d8b-6e168b840231" />
 
+## Debug Actors (Crossover Preset)
+
+<img width="680" height="105" alt="image" src="https://github.com/user-attachments/assets/d528bf75-1f02-4c33-b97a-6bc242db7d3c" />
+
+When in usage you will see the crossover visualization
+<img width="785" height="280" alt="image" src="https://github.com/user-attachments/assets/79d7ae99-84d1-4d44-bad8-249ea467470a" />
 
 
+
+## Debug Actors (Filterizer Preset)
+
+<img width="662" height="141" alt="image" src="https://github.com/user-attachments/assets/0ac41970-d949-4ddb-8b68-70f5574912f8" />
+When in usage you will see the Filterizer Frequency visualization
+<img width="1869" height="315" alt="image" src="https://github.com/user-attachments/assets/a13e0556-73ed-4bb4-8233-06beb40fd1e7" />
 
 
 
