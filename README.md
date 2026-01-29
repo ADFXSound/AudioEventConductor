@@ -115,12 +115,22 @@ When in usage you will see the crossover visualization
 <img width="785" height="280" alt="image" src="https://github.com/user-attachments/assets/79d7ae99-84d1-4d44-bad8-249ea467470a" />
 
 
-
 ## Debug Actors (Filterizer Preset)
 
 <img width="662" height="141" alt="image" src="https://github.com/user-attachments/assets/0ac41970-d949-4ddb-8b68-70f5574912f8" />
 When in usage you will see the Filterizer Frequency visualization
 <img width="1869" height="315" alt="image" src="https://github.com/user-attachments/assets/a13e0556-73ed-4bb4-8233-06beb40fd1e7" />
+
+## Debug Actors (Test Audio)
+
+You can add a sound to test with that can either play off off with time intervals, or looping with Start Stop (for gun shots etc)
+<img width="673" height="497" alt="image" src="https://github.com/user-attachments/assets/a995e532-a51a-42c5-a1a0-a21a742012fd" />
+
+IMPORTANT:
+Ensure the Apply Atteunation Profile to Sound is checked so you can properly audition the settings. Otherwise will be using which ever Sound Atteunation is active in the Sound Cue.
+<img width="332" height="22" alt="image" src="https://github.com/user-attachments/assets/7131de30-6215-4a07-8cec-ea2933148431" />
+
+
 
 
 
