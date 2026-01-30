@@ -9,6 +9,11 @@ Get the plugin from Unreal Marketplace. Ensure it is Enabled. If not, enable and
 
 <img width="531" height="104" alt="image" src="https://github.com/user-attachments/assets/71766307-a37c-417e-b65c-0dd0eb31caf2" />
 
+## Right Click Menu
+Accessible from the left panel of The Audio Event Conductor, right click to see options.
+
+<img width="294" height="737" alt="image" src="https://github.com/user-attachments/assets/2e3876d9-cc34-4021-8b61-bef840ced2fd" />
+
 ## Usage
 
 Right Click in the Content Broswer and Create an Audio Event Conductor
@@ -118,7 +123,9 @@ When in usage you will see the crossover visualization
 ## Debug Actors (Filterizer Preset)
 
 <img width="662" height="141" alt="image" src="https://github.com/user-attachments/assets/0ac41970-d949-4ddb-8b68-70f5574912f8" />
+
 When in usage you will see the Filterizer Frequency visualization
+
 <img width="1869" height="315" alt="image" src="https://github.com/user-attachments/assets/a13e0556-73ed-4bb4-8233-06beb40fd1e7" />
 
 ## Debug Actors (Test Audio)
@@ -143,20 +150,24 @@ The Volume Modulation and The Pitch Modulation are activated by defauled and ind
 
 <img width="180" height="60" alt="Randomizer2" src="https://github.com/user-attachments/assets/53298f54-9550-4016-ba69-5e6870112bf5" />
 
+
 <img width="568" height="194" alt="image" src="https://github.com/user-attachments/assets/28d6141d-1c19-4589-a71d-3383c3d4fc6c" />
 
 ## LooperADFX
 
 The LooperADFX is a variant of many of the features from RandomizerADFX, but it's built specifically for Looping audio. It will also function with just one sound, but the additional looping features become obselete. 
+
 <img width="157" height="60" alt="Looper2" src="https://github.com/user-attachments/assets/61acdcc2-f735-4e2c-a6dd-3832ac719940" />
 
 Additions include Sequenital and Random selection
+
 <img width="561" height="81" alt="image" src="https://github.com/user-attachments/assets/c01ba038-ad94-4f59-bbb1-0360407a8e31" />
 
 
 
 ## CrossfaderADFX
 The CrossfaderADFX is a simple crossover that will enable you to easily make blend distances. It defaults to 2 inputs, but the users can add additional cross over points. 
+
 <img width="236" height="90" alt="Crossfader2" src="https://github.com/user-attachments/assets/11b409a7-f2d3-48d3-b920-eac6cc76aaa7" />
 
 <img width="767" height="322" alt="image" src="https://github.com/user-attachments/assets/88b0d988-7113-47b8-be4b-14552e58cbef" />
@@ -178,6 +189,26 @@ a.Debug.RandomizerADFX - RandomizerADFX verbose logging
 
 a.Debug.LooperADFX - LooperADFX verbose logging
 
+## Performance
+While The Audio Event Conductor is optimized, should you encounter severe performance issues, there are a few built in features to help focus its attention to less tasks simulatenously.
+
+## Live Update
+
+When disabled you will need to press the Update button manually to obtain the same expected results.
+When enabled (checkbox next to the "Update" button), the editor automatically refreshes the UI in real-time as you make changes:
+Tree view updates immediately when you add, rename, or reorganize items
+Details panel updates instantly when you select items
+Inline SoundCue panel loads and displays embedded editors immediately
+
+<img width="201" height="34" alt="image" src="https://github.com/user-attachments/assets/fb3b44f2-5f42-421b-a0d6-2bb6c5c41fbf" />
+
+##Auto Sort Tree
+Automatically keeps the hierarchy tree alphabetically sorted at all times:
+When you rename items, they move to their correct alphabetical position
+When you add new folders/events, they're inserted in sorted order
+Sorting happens recursively through all nested folders
+
+<img width="288" height="35" alt="image" src="https://github.com/user-attachments/assets/478d2a4c-8d47-491d-8133-84c87956abe0" />
 
 
 
