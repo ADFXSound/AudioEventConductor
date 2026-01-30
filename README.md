@@ -14,6 +14,10 @@ Accessible from the left panel of The Audio Event Conductor, right click to see 
 
 <img width="294" height="737" alt="image" src="https://github.com/user-attachments/assets/2e3876d9-cc34-4021-8b61-bef840ced2fd" />
 
+## Event
+For each Folder and Event, the following properties are definable and cascade inheritance downwards in the tree view.
+<img width="502" height="368" alt="image" src="https://github.com/user-attachments/assets/38426e0c-62e2-45e4-a565-4926ebd92ce4" />
+
 ## Usage
 
 Right Click in the Content Broswer and Create an Audio Event Conductor
