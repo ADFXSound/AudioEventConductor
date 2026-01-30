@@ -18,7 +18,7 @@ Right Click in the Content Broswer and Create an Audio Event Conductor
 ## Auto Populate the Tree View
 Inside the Audio Event Conductor, right click in the left Panel and Select either Auto Populate from Selected Folder, or Selected Sound Cues
 
-This requires the context browser have the desired selection. For example: select the Content Folder to scan the entire project, or Sounds Folder, or specific Sound Cues.
+This requires the content browser to have the desired selection. For example: select the Content Folder to scan the entire project, or Sounds Folder, or specific Sound Cues.
 
 <img width="730" height="567" alt="image" src="https://github.com/user-attachments/assets/5175504d-c559-4f62-8620-7b727e2fe241" />
 
