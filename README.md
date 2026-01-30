@@ -130,6 +130,46 @@ IMPORTANT:
 Ensure the Apply Atteunation Profile to Sound is checked so you can properly audition the settings. Otherwise will be using which ever Sound Atteunation is active in the Sound Cue.
 <img width="332" height="22" alt="image" src="https://github.com/user-attachments/assets/7131de30-6215-4a07-8cec-ea2933148431" />
 
+## RandomizerADFX
+The RandomizerADFX sound node combines redundant sound cue set up related to individual sound wave players linked into a Random Node, Linked into a modulator. It also auto populates the sound waves, to reduce redundant navigating and draging from the content broswer. It will also function with just one sound.
+
+<img width="737" height="485" alt="image" src="https://github.com/user-attachments/assets/27accc01-7e0a-480e-9a45-4dcf38e91d90" />
+
+The option also exists to add silence.
+
+<img width="624" height="249" alt="image" src="https://github.com/user-attachments/assets/1daaa3ab-2858-485d-8d6b-9c21f9c1dd0a" />
+
+The Volume Modulation and The Pitch Modulation are activated by defauled and indicated as on in the Node with [VP], respectively.
+
+<img width="180" height="60" alt="Randomizer2" src="https://github.com/user-attachments/assets/53298f54-9550-4016-ba69-5e6870112bf5" />
+
+<img width="568" height="194" alt="image" src="https://github.com/user-attachments/assets/28d6141d-1c19-4589-a71d-3383c3d4fc6c" />
+
+## LooperADFX
+
+The LooperADFX is a variant of many of the features from RandomizerADFX, but it's built specifically for Looping audio. It will also function with just one sound, but the additional looping features become obselete. 
+<img width="157" height="60" alt="Looper2" src="https://github.com/user-attachments/assets/61acdcc2-f735-4e2c-a6dd-3832ac719940" />
+
+Additions include Sequenital and Random selection
+<img width="561" height="81" alt="image" src="https://github.com/user-attachments/assets/c01ba038-ad94-4f59-bbb1-0360407a8e31" />
+
+
+
+## CrossfaderADFX
+The CrossfaderADFX is a simple crossover that will enable you to easily make blend distances. It defaults to 2 inputs, but the users can add additional cross over points. 
+<img width="236" height="90" alt="Crossfader2" src="https://github.com/user-attachments/assets/11b409a7-f2d3-48d3-b920-eac6cc76aaa7" />
+
+<img width="767" height="322" alt="image" src="https://github.com/user-attachments/assets/88b0d988-7113-47b8-be4b-14552e58cbef" />
+
+RECOMMENDED: Use the Preset categorically in many Sound Cues, so you can edit the preset and change the blend values for any Sound Cue that has the same Preset Allocated.
+
+## FilterizerADFX
+The FilterizerADFX enables Low and High Pass filters based on atteunation start and draws to the end of the defined distance.
+<img width="136" height="60" alt="Filterizer2" src="https://github.com/user-attachments/assets/2a0b6546-851b-422a-b22a-cc77620a4c39" />
+
+<img width="424" height="324" alt="image" src="https://github.com/user-attachments/assets/2cc27a52-2481-42f0-ad85-2ea3ef937d72" />
+
+RECOMMENDED: Use the Preset categorically in many Sound Cues, so you can edit the preset and change the values for any Sound Cue that has the same Preset Allocated.
 
 ## Debug Commands
 a.Debug.CrossfaderADFX - CrossfaderADFX verbose logging
