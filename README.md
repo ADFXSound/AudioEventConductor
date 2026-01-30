@@ -142,7 +142,7 @@ Ensure the Apply Atteunation Profile to Sound is checked so you can properly aud
 <img width="332" height="22" alt="image" src="https://github.com/user-attachments/assets/7131de30-6215-4a07-8cec-ea2933148431" />
 
 ## RandomizerADFX
-The RandomizerADFX sound node combines redundant sound cue set up related to individual sound wave players linked into a Random Node, Linked into a modulator. It also auto populates the sound waves, to reduce redundant navigating and draging from the content broswer. It will also function with just one sound.
+The RandomizerADFX sound node streamlines common sound cue workflows related to individual sound wave players linked into a Random Node, Linked into a modulator. It also auto populates the sound waves, to reduce redundant navigating and draging from the content broswer. It will also function with just one sound.
 
 <img width="737" height="485" alt="image" src="https://github.com/user-attachments/assets/27accc01-7e0a-480e-9a45-4dcf38e91d90" />
 
