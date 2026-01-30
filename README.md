@@ -5,7 +5,7 @@ The Audio Event Conductor is an Unreal Engine Plugin built in C++. Enabling a "w
 
 ## Installation
 
-Get the plugin from Unreal Marketplace. Enable and restart the editor. 
+Get the plugin from Unreal Marketplace. Ensure it is Enabled. If not, enable and restart the editor. 
 
 <img width="531" height="104" alt="image" src="https://github.com/user-attachments/assets/71766307-a37c-417e-b65c-0dd0eb31caf2" />
 
