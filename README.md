@@ -5,8 +5,6 @@ The Audio Event Conductor is an Unreal Engine Plugin built in C++. Enabling a "w
 
 <img width="3439" height="1354" alt="image" src="https://github.com/user-attachments/assets/10806e8e-0cca-4bbe-ba1f-0342ca09ee08" />
 
-
-
 ## Installation
 
 Get the plugin from Unreal Marketplace. Ensure it is Enabled. If not, enable and restart the editor. 
@@ -17,6 +15,9 @@ Get the plugin from Unreal Marketplace. Ensure it is Enabled. If not, enable and
 Accessible from the left panel of The Audio Event Conductor, right click to see options.
 
 <img width="294" height="737" alt="image" src="https://github.com/user-attachments/assets/2e3876d9-cc34-4021-8b61-bef840ced2fd" />
+
+
+<img width="3439" height="1354" alt="image" src="https://github.com/user-attachments/assets/74af7624-fa54-44fe-826d-c1e062095a30" />
 
 ## Event
 For each Folder and Event, the following properties are definable and cascade inheritance downwards in the tree view.
