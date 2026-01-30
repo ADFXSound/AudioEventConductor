@@ -100,7 +100,13 @@ Since the falloff distance only begins at the Inner Radius end point, the total 
 <img width="513" height="92" alt="image" src="https://github.com/user-attachments/assets/dca9e948-7584-454e-9699-5f5ec45f48ab" />
 
 ## Debug Actors
-It's recommended to create a new level with your Debug Actor.
+It's recommended to create a new level with your Debug Actor. 
+
+NOTE: This is an actor, not an actor component. 
+
+NOTE: The intention is to use this one at time, and not attached to anything. Instead of applying it to BP Actors etc.
+
+Speak up in the Discord if you have feedback or would want a streamlined Actor Component variant. 
 Add actors: Attenuation Profile Debug Actor or Sound Attenuation Debug Actor. They provide identical results.
 The ADFXSound workflow is to begin with the Attenuation Profile variant if you are using those.
 
