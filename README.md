@@ -3,6 +3,10 @@ Thanks for your interest in the Audio Event Conductor!
 
 The Audio Event Conductor is an Unreal Engine Plugin built in C++. Enabling a "wwise" inspired workflow Conducting Built-in UE Audio with a familiar Tree view and Inline Editor workflow. Easily manipulate Attenuations, Sound Cues, Sound Classes and Sound Concurrency Settings. 
 
+<img width="3439" height="1354" alt="image" src="https://github.com/user-attachments/assets/10806e8e-0cca-4bbe-ba1f-0342ca09ee08" />
+
+
+
 ## Installation
 
 Get the plugin from Unreal Marketplace. Ensure it is Enabled. If not, enable and restart the editor. 
